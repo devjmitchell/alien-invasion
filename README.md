@@ -7,3 +7,5 @@ Some of my updates include:
 - Ability to move up and down (instead of just left and right)
 - Saved all time high score (the book's version would lose the high score every time game is closed)
 - And more (I think) that I just don't remember
+
+DISCLAIMER: I used Donald Trump's head as the "ship" and Hillary Clinton's head as the "aliens". This is a JOKE. If this offends you, go away!
